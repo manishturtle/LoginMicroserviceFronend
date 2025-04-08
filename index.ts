@@ -1,0 +1,1 @@
+export { default as PlatformAdminLoginPage } from "./src/pages/platform-admin/login;
